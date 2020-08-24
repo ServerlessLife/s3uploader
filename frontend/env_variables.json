@@ -1,0 +1,6 @@
+{
+  "UserPoolClientId": "3shmb515d1erp89vahufqn0seb",
+  "UploadlinkLambdaFunctionQualifiedArn": "arn:aws:lambda:eu-west-1:076585967075:function:s3uploader-prod-uploadlink:1",
+  "ServiceEndpoint": "https://cmcwbfzm30.execute-api.eu-west-1.amazonaws.com/prod",
+  "ServerlessDeploymentBucketName": "s3uploader-prod-serverlessdeploymentbucket-ly73lqkgzqqs"
+}
